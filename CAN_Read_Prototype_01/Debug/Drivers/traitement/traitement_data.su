@@ -1,0 +1,5 @@
+../Drivers/traitement/traitement_data.c:6:19:init	16	static
+../Drivers/traitement/traitement_data.c:12:19:fct_transmit	16	static
+../Drivers/traitement/traitement_data.c:23:7:calculdata	56	static
+../Drivers/traitement/traitement_data.c:60:19:carburant	376	static
+../Drivers/traitement/traitement_data.c:169:19:traitement	168	static
